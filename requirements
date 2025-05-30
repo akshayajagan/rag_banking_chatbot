@@ -1,0 +1,8 @@
+streamlit
+soundfile
+kokoro-tts==0.3.0
+numpy
+fasttext
+groq
+gtts
+googletrans==4.0.0rc1
